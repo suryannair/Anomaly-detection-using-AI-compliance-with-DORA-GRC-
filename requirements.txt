@@ -1,0 +1,9 @@
+
+---
+
+## ✅ `requirements.txt`
+
+streamlit
+pandas
+scikit-learn
+openpyxl
